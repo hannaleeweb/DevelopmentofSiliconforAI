@@ -1,4 +1,4 @@
-# DevelopmentofSiliconforAI
+# Development of Silicon for AI: Different Design Approaches
 
 Abstract—This paper provides a review of design approaches
 towards artificial intelligence (AI) System-on-Chip. AI algorithms
